@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.andradenathan</groupId>
-    <artifactId>orders-events-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>orders-events-api</name>
-    <description>orders-events-api</description>
+    <artifactId>marketplace</artifactId>
+    <version>0.0.1-alpha</version>
+    <name>marketplace</name>
+    <description>marketplace</description>
     <url/>
     <licenses>
         <license/>
