@@ -1,4 +1,4 @@
-package com.github.andradenathan.orderseventsapi.entities.orders.event;
+package com.github.andradenathan.orderseventsapi.entities.payments.event;
 
 import java.math.BigDecimal;
 import java.util.UUID;

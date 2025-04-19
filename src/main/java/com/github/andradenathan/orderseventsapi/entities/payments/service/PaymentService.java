@@ -1,7 +1,7 @@
-package com.github.andradenathan.orderseventsapi.entities.orders.service;
+package com.github.andradenathan.orderseventsapi.entities.payments.service;
 
 import com.github.andradenathan.orderseventsapi.entities.orders.event.CreatedOrderEvent;
-import com.github.andradenathan.orderseventsapi.entities.orders.event.PaymentApprovedEvent;
+import com.github.andradenathan.orderseventsapi.entities.payments.event.PaymentApprovedEvent;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
